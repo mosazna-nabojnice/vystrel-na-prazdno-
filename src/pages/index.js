@@ -20,7 +20,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
-      <Link to="https://www.seznam.cz/">Go to page 2</Link> <br />
+      <Link to="https://www.seznam.cz/">zmrde</Link> <br />
       <Link to="javascript:alert('Nečum');">Go to "Using TypeScript"</Link> <br />
       <Link to="/using-ssr">Go to "Using SSR"</Link> <br />
       <Link to="/using-dsg">Go to "Using DSG"</Link>
